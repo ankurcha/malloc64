@@ -1,0 +1,10 @@
+# Site settings
+title: Thoughts of an allocated mind.
+email: ankur@malloc64.com
+description: "An open repository of freely available research, notes and thoughts on computer science, engineering, programming and everything related."
+baseurl: "/malloc64"
+url: "https://ankurcha.github.io/malloc64"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
