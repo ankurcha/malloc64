@@ -1,4 +1,4 @@
-# Where Clauses for API
+# Thoughts on `where` Clauses for analytics API
 
 The current API where clause is limited in terms of functionality and the set of operations it can support. This document represents a survey of the possible alternatives.
 
